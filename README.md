@@ -6,7 +6,7 @@
 
 <p align="center">
   🌱 I’m currently learning: Building dynamic websites using MERN
-  ⚡ Fun fact: Adrenaline Seeker <sup>1</sup>
+  ⚡ Fun fact: Adrenaline Seeker <sup>^</sup>
 </p>
 
-> <sup>1</sup> The sensation of exhilaration or exciting situations, an active seeker of such opportunities. daredevil. thrill seeker. madcap. adventurer.
+> <sup>^</sup> The sensation of exhilaration or exciting situations, an active seeker of such opportunities. daredevil. thrill seeker. madcap. adventurer.
