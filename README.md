@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+	<a href="https://github.com/faizanh"><img src="https://image.flaticon.com/icons/png/24/2111/2111425.png" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/sfaizanh"><img src="https://image.flaticon.com/icons/png/24/145/145807.png" alt="LinkedIn"></a>
+	<a href="https://faizanh.myportfolio.com"><img src="https://image.flaticon.com/icons/png/24/607/607332.png" alt="CV"></a>
+</p>
 
-<!--
-**FaizanH/FaizanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 I’m currently learning: Building dynamic websites using MERN
+  ⚡ Fun fact: Adrenaline Seeker <sup>1</sup>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <sup>1</sup> The sensation of exhilaration or exciting situations, an active seeker of such opportunities. daredevil. thrill seeker. madcap. adventurer.
