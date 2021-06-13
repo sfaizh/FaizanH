@@ -9,4 +9,4 @@
   ⚡ Fun fact: Adrenaline Seeker <sup>^</sup>
 </p>
 
-> <sup>^</sup> The sensation of exhilaration or exciting situations, an active seeker of such opportunities. daredevil. thrill seeker. madcap. adventurer.
+> <sup>^</sup> Sensation of exhilaration or exciting situations, an active seeker of such opportunities. daredevil. thrill seeker. madcap. adventurer.
