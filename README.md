@@ -6,7 +6,4 @@
 
 <div align="center">
   <p>🌱 I’m currently learning how to build dynamic websites using MERN</p>
-  <p>⚡ Fun fact: Adrenaline Seeker <sup>^</sup></p>
 </div>
-
-> <sup>^</sup> Sensation of exhilaration or exciting situations, an active seeker of such opportunities. daredevil. thrill seeker. madcap. adventurer.
