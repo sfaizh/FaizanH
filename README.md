@@ -15,8 +15,8 @@
 <h3 align="left">Contact</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/sfaizanh" target="blank"><img src="https://github.com/FaizanH/FaizanH/assets/18716739/96ebcb7b-2eb5-4f3f-ae25-f0f88450ea8b" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/ghostdc5/"><img src="https://github.com/FaizanH/FaizanH/assets/18716739/ff776a47-9b4f-4d35-a7a2-64092f319d8d" alt="GitHub"></a>
-	<a href="https://faizans-portfolio.onrender.com"><img src="https://github.com/FaizanH/FaizanH/assets/18716739/3be8fb01-b32c-4f57-b17f-fb2f53772adf" alt="portfolio"></a>
+	<a href="https://www.instagram.com/ghostdc5/" target="blank><img src="https://github.com/FaizanH/FaizanH/assets/18716739/ff776a47-9b4f-4d35-a7a2-64092f319d8d" alt="GitHub"></a>
+	<a href="https://faizans-portfolio.onrender.com" target="blank><img src="https://github.com/FaizanH/FaizanH/assets/18716739/3be8fb01-b32c-4f57-b17f-fb2f53772adf" alt="portfolio"></a>
 </p>
 
 <h3 align="left">Tech Stack	<img src="https://github.com/FaizanH/FaizanH/assets/18716739/0996cf00-1c70-4f74-8319-5a29ecd6a91d" alt="stack"></h3>
