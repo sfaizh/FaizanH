@@ -1,15 +1,11 @@
-<p align="center">
-	<img src="https://github.com/FaizanH/FaizanH/assets/18716739/0f5ad3b0-01be-48c8-9967-26f3f85655cd height="396" width="1584">
-</p>
-
 <h1 align="center">Hi, I'm Faizan 👋</h1>
-<h5 align="center"> I aspire to build technology that can shape the lives of others in a positive way, and help communities around the world to achieve their goals through technology. </h5>
+<h5 align="center"> I aspire to build technology that can change the world </h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanh&label=Profile%20views&color=0e75b6&style=flat" alt="faizanh" /> </p>
 
 
-- 🌱 Learning MERN for Web Applications, Enterprise Application Development, and DevOps Engineering
+- 🌱 Learning Go and Application Tracing for APM
 - 💼 Need help building a application or website, or just wanna have a chat? Shoot me an [email](mailto:faizanh53@gmail.com) 
 
 <h3 align="left">Contact</h3>
@@ -36,5 +32,5 @@
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FaizanH&show_icons=true&locale=en&layout=compact" alt="FaizanH" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FaizanH"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfaizh&show_icons=true&locale=en&layout=compact" alt="sfaizh" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sfaizh"></a>
