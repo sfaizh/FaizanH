@@ -1,5 +1,4 @@
-# <h1 align="center">HOPE<br>LOVE</h1>
-<h5 align="center"> brb building Rome</h5>
+
 <span># <img src="https://github.com/sfaizh/FaizanH/blob/main/aaaaaa.gif" width="50px"/> </span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanh&label=Profile%20views&color=0e75b6&style=flat" alt="faizanh" /> </p>
@@ -7,7 +6,6 @@
 #### What I'm working on
 
 - Learning Go and Application Tracing for APM
-- <img src="https://github.com/sfaizh/FaizanH/blob/main/motorcycle_trick.gif" width="25px"/> Doing wheelies in my spare time
 
 &nbsp;
 <p align="left">
